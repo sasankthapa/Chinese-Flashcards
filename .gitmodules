@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:sasankthapa/flashcards-ui.git
+[submodule "flashcards-api"]
+	path = flashcards-api
+	url = git@github.com:sasankthapa/flashcards-api.git
+[submodule "api"]
+	path = api
+	url = git@github.com:sasankthapa/flashcards-api.git
