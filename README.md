@@ -11,5 +11,4 @@ Flashcards app for Chinese language using Docker, Node.js, React, Postgres and M
   Containerized nodejs server and postgres database with MongoDB Atlas.
 
 TODO:
-- Frontend has not been touched beside setting up some redux,
-- Define backend apis
+- Implement RESTApi endpoints and define component tree
